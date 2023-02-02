@@ -1,1 +1,2 @@
-Bu site  html ve css ile çalışır.
+<h1>Basit Websıte</h1>
+<p>Bu site HTML5 ve CSS3 ile çalışır</p>
